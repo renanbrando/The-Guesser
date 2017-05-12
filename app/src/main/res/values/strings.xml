@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">O Adivinho</string>
+    <string name="str_guess">Adivinhe</string>
+    <string name="str_help">Digite um chute!</string>
+    <string name="str_higher">Valor maior que o número.</string>
+    <string name="str_lower">Valor menor que o número.</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="str_last">Último chute.</string>
+    <string name="str_equals">Valor correto.</string>
+</resources>

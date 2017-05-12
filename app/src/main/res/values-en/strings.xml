@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Guesser</string>
+    <string name="cancel">Cancel</string>
+    <string name="str_equals">Correct value.</string>
+    <string name="str_guess">Guess</string>
+    <string name="str_help">Type a guess!</string>
+    <string name="str_higher">Value higher than the number.</string>
+    <string name="str_last">Last guess.</string>
+    <string name="str_lower">Value lower than the number.</string>
+</resources>
