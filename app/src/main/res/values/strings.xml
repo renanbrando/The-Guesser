@@ -8,4 +8,9 @@
     <string name="cancel">Cancelar</string>
     <string name="str_last">Último chute.</string>
     <string name="str_equals">Valor correto.</string>
+    <string name="about">Sobre</string>
+    <string name="settings">Configurações</string>
+    <string name="range">Intervalo</string>
+    <string name="help">Configurações</string>
+    <string name="developed">Desenvolvido por Renan Ribeiro Brando.</string>
 </resources>
